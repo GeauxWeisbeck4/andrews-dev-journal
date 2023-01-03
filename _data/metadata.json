@@ -1,0 +1,21 @@
+{
+  "title": "Andrews Dev Blog",
+  "url": "https://andrewweisbeck.netlify.app/",
+  "language": "en",
+  "description": "My daily journal aboutvarious topics and/or what I've worked on for the day.",
+  "feed": {
+    "subtitle": "A blog about software development, by Andrew Weisbeck.",
+    "filename": "feed.xml",
+    "path": "/feed/feed.xml",
+    "id": "https://andrew.weisbeck.netlify.app/"
+  },
+  "jsonfeed": {
+    "path": "/feed/feed.json",
+    "url": "https://andrewweisbeck.netlify.app/feed/feed.json"
+  },
+  "author": {
+    "name": "Your Name Here",
+    "email": "youremailaddress@example.com",
+    "url": "https://andrewweisbeck.netlify.app/about-me/"
+  }
+}
