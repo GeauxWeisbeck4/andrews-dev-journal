@@ -1,9 +1,9 @@
 ---
 layout: layouts/post.njk
-title: About Me
+title: About
 templateClass: tmpl-post
 eleventyNavigation:
-  key: About Me
+  key: About
   order: 3
 ---
 
@@ -17,13 +17,13 @@ I always thought being a software developer required magical abilities, but anyo
 
 ## I created this blog to write about various topics
 
-I have a bunch of blogs, but I wanted sort of my own site that paired as a journal and blog about web development. I always like finding people's blogs where they are just loaded with tutorials, info, and personal opinions. That is what this is supposed to be. 
+I have a bunch of blogs, but I wanted sort of my own site that paired as a journal and blog about web development. I always like finding people's blogs where they are just loaded with tutorials, info, and personal opinions. That is what this is supposed to be.
 
 The design will start out pretty plain, but I plan on working on this site bit by bit, until it is something big and beautiful. You may also see many posts on this website cross posted on Medium, Hashnode, or Tealfeed as I try to grow my following online.
 
 ## More about this blog
 
-This website was created with 11ty and plain HTML, CSS, and JavaScript. As of now, I don't use any other technology - oh, I do use Stackblitz. It's a great web container for creating sites quickly and getting ideas going. I'll work on this more locally in the future I'm sure, but Stackblitz is one of my favorite technologies. 
+This website was created with 11ty and plain HTML, CSS, and JavaScript. As of now, I don't use any other technology - oh, I do use Stackblitz. It's a great web container for creating sites quickly and getting ideas going. I'll work on this more locally in the future I'm sure, but Stackblitz is one of my favorite technologies.
 
 I'll be adding Netlify CMS in the near future, but I plan on deploying this on both Netlify and Vercel, just to kind of see the performance differences out of curiousity. I use README based development to start the project and hope that I can make this blog cool enough to inspire another developer do to somehting similar. I also plan to turn this into an 11ty starter.
 
