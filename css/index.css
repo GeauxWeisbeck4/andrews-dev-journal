@@ -252,3 +252,12 @@ a[href].direct-link:focus:visited,
 :hover > a[href].direct-link:visited {
   color: #aaa;
 }
+
+.section-two {
+  margin-top: 1rem;
+}
+
+/* middle picture */
+.mid-pic {
+  margin-top: 2rem;
+}
